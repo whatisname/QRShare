@@ -28,7 +28,7 @@ https://www.google.com/
 
 4. Run the command: (replace <copy the link here> by pasting the content that you just copied. Note: replace <> as well, but leave quote.)
 
-```cosole
+```console
 ./qrcb.sh "<copy the link here>"
 ```
 
